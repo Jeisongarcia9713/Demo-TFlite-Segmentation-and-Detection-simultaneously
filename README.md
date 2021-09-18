@@ -1,0 +1,1 @@
+This repository contain a simple web page that show the perfomance of the two convolutional neural  networks  running in parallel, sharing the same features extractor, in this case a Mansnet features extractor which was adjusted through the process of transfer learning to realize the segmentation and detection task in a light way to give it the feature of running in edge devices.

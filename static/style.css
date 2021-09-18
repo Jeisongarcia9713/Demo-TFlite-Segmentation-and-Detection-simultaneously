@@ -1,0 +1,15 @@
+body {
+    overflow: hidden; /* Hide scrollbars */
+}
+
+.carousel-indicators .active {
+    background-color: green;
+}
+
+.carousel-indicators li {
+background-color: black;
+}
+
+#navigation,.navbar .navbar-default{
+    background-image: url("laser.png");
+}
